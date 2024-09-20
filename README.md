@@ -1,7 +1,3 @@
-For a `README.md` file accompanying this Shiny app on GitHub, you can include the following sections to provide clear instructions and context for users:
-
----
-
 # NHANES Health Data Visualization App
 
 This Shiny app allows users to interactively explore and visualize the NHANES dataset, a comprehensive health and nutrition data set from the National Health and Nutrition Examination Survey. Users can create customizable plots and filter data based on various variables, such as age, BMI, and gender.
