@@ -52,7 +52,7 @@ Once the app is running, you can:
 
 Here’s an example of the app interface with a scatter plot of Age vs. BMI:
 
-![Scatter Plot Example](path_to_example_image.png)
+![Scatter Plot Example](https://github.com/EemanAbbasi/r_shiny/blob/main/rshiny_app.png)
 
 ## Code Structure
 
